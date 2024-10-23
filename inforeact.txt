@@ -1,0 +1,12 @@
+01 CREATE PACKAGE.JSON FILE {}
+02 RUN COMAND! npm install react@latest react-dom@latest next@latest
+03 CREATE FILE JSX HOME
+04 ADD SCRIP NEXT-RUN IN JSON
+
+
+
+
+
+"scripts": {
+    "dev": "next dev"
+  },
