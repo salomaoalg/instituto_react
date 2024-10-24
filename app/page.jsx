@@ -1,8 +1,12 @@
 'use-client'
+import "./index.css"
+import Head from "./head/head"
+
 export default function Home(){
+   
     return(
-        <div>
-            <h1>Site Institucional</h1>
-        </div>
+       <>
+            <Head/>
+       </>
     )
 }

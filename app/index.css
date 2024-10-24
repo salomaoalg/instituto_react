@@ -1,0 +1,45 @@
+/* Reset CSS básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    line-height: 1.5; /* Ajuste de espaçamento entre linhas */
+    -webkit-font-smoothing: antialiased; /* Suavização de fonte em navegadores Webkit */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Fundo leve para o corpo */
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+ul, ol {
+    list-style: none;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button, input, textarea {
+    font: inherit;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+button {
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+.html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para o cabeçalho */
+.header {
+    background-color: #333;
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+/* Estilos para o menu */
+.navList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navList li {
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+.navItem {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navItem:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para o logo */
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 20mm;
+}
