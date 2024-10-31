@@ -4,11 +4,11 @@ import styled from 'styled-components'
 
 const Article = styled.article`margin-top: 30px;`;
 
-export default function BodyStart() {
+export default function BodySobre() {
     
     
     return (
-        <body>
+        <>
             <h1 className={styles.center}>Sobre Animes</h1>
 
             <div className={styles.spacemargin}>
@@ -68,6 +68,6 @@ export default function BodyStart() {
 
                 </main>
             </div>
-        </body>
+        </>
     )
 }

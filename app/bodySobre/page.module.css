@@ -1,12 +1,10 @@
 .center{
     text-align: center;
+    margin-top: 3vw;
+    font-size: 3vw;
 }
 
 .spacemargin{
     margin: 3vw;
     font-size: 30px;
-}
-
-.spacearticle{
-    margin-top: 10.vw;
 }
