@@ -7,7 +7,7 @@
 
 html, body {
     height: 100%;
-    font-family: Arial, sans-serif; /* Fonte padrão */
+    font-family: Arial, sans-serif; 
     line-height: 1.5; /* Ajuste de espaçamento entre linhas */
     -webkit-font-smoothing: antialiased; /* Suavização de fonte em navegadores Webkit */
 }

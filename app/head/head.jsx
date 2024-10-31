@@ -5,7 +5,7 @@ export default function Head() {
         <>
             <header className={styles.header}>
                 <div className={styles.logo}>
-                    <h1>Site Name</h1>
+                    <h1>Anime+</h1>
                 </div>
 
                 <nav className={styles.nav}>
